@@ -181,13 +181,22 @@
   animation: loading-10 1.5s linear forwards 1.8s;
 }
 
-.progress.green .progress-bar {
+.progress.bluesea .progress-bar {
   border-color:  #828bdf;
   /*office 365    */
 }
 
-.progress.green .progress-left .progress-bar {
+.progress.bluesea .progress-left .progress-bar {
   animation: loading-10 1.5s linear forwards 1.8s;
+}
+
+.progress.green .progress-bar {
+  border-color:  #006d1b;
+  /*office 365    */
+}
+
+.progress.green .progress-left .progress-bar {
+  animation: loading-16 1.5s linear forwards 1.8s;
 }
 
 
