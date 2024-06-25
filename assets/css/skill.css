@@ -86,7 +86,7 @@
 }
 
 .progress.blue .progress-left .progress-bar {
-  animation: loading-2 1.5s linear forwards 1.8s;
+  animation: loading-10 1.5s linear forwards 1.8s;
 }
 
 .progress.yellow .progress-bar {
@@ -178,15 +178,6 @@
 }
 
 .progress.powderblue .progress-left .progress-bar {
-  animation: loading-10 1.5s linear forwards 1.8s;
-}
-
-.progress.bluesea .progress-bar {
-  border-color:  #828bdf;
-  /*office 365    */
-}
-
-.progress.bluesea .progress-left .progress-bar {
   animation: loading-10 1.5s linear forwards 1.8s;
 }
 
