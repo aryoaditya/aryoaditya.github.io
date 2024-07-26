@@ -91,14 +91,11 @@
 
 .progress.yellow .progress-bar {
   border-color: yellow;
-}
-
-.progress.yellow .progress-right .progress-bar {
-  animation: loading-3 1.8s linear forwards;
+  /* Node.js    */
 }
 
 .progress.yellow .progress-left .progress-bar {
-  animation: none;
+  animation: loading-8 1.5s linear forwards 1.8s;
 }
 
 .progress.steelblue .progress-bar {
